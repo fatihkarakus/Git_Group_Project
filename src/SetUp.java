@@ -4,6 +4,11 @@ public class SetUp {
     // some changes
 
     // some more changes
+  
+    // fatih made some changes
 
+    // fatih made second change
+
+    // some changes from emil
 
 }
