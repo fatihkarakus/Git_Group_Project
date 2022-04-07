@@ -13,4 +13,6 @@ public class SetUp {
 
     // zeynep does java for fun
 
+    // Seniye likes reading
+
 }
